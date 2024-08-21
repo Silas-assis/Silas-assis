@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Silas Lima 👋
 
-- 🔭 Atuando como QA Analyst Jr.
+- 🔭 Atuando como QA Analyst Pleno.
 - 🌱 Estudando Automação em Cypress e Selenium
 - 📫 E-mail: silaslima-19@hotmail.com
 
